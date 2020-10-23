@@ -112,7 +112,7 @@
       padding-top: 200px;
       font-weight: bold;
       transform: scale(0.1);
-      line-height: 50px;
+      line-height: 90px;
 
       }
   }
@@ -225,7 +225,7 @@
 }
 
 // <!-- 実績 -->
-.bx-wr{
+#bx-wr{
   padding:100px 20px;
   width:100%;
   height:800px;
@@ -298,11 +298,13 @@
 
 
 // <!-- 人物像 -->
-.ab{
+#ab{
   background-color:whitesmoke;
   width:100%;
   height:850px;
   display:block;
+}
+.ab{
   
   &-img-002{
     width:400px;
@@ -391,7 +393,7 @@
 // <!-- contact -->
 
 
-.bx-form{
+#bx-form{
   padding:100px 20px;
   width:100%;
   height:auto;
